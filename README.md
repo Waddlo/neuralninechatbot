@@ -1,5 +1,8 @@
 # neuralninechatbot
-Chat bot created using Neural Nine's tutorial. I do not own this source code and full credit goes to NeuralNine.
+
+DISCLAIMER!: None of the source code used in this repository belongs to me. All credit goes to YouTuber NeuralNine; his youtube will be at the bottom.
+
+Chat bot created using Neural Nine's tutorial.
 
 Save the intents.json, the training.py, and the chatbot.py in the same folder. 
 
@@ -11,3 +14,5 @@ Steps after you download the files:
 
 If you run into an error with any of the modules, make sure to pip install [module].
 For nltk, you may need to visit https://www.nltk.org/data.html to install the requirements for nltk
+
+https://www.youtube.com/c/neuralnine
